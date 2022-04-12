@@ -5,9 +5,6 @@ from get_links import get_links
 from datetime import datetime
 import time
 import json
-import os
-import sys
-import inspect
 from parse_card import *
 from card_class import *
 
